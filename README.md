@@ -7,4 +7,3 @@ Kelas ini mengajarkan kepada siswa dalam melakukan kolaborasi dengan pemilik rep
 - Membuka fork repository
 - Edit fork repository
 - Simpan perubahan
-- Merubah fork repository
