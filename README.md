@@ -1,2 +1,3 @@
-# Belajar-Kolaborasi
-Belajar melakukan kolaborasi di public repository
+# Belajar Kolaborasi
+Belajar melakukan kolaborasi di public repository<br>
+Kelas ini mengajarkan kepada siswa dalam melakukan kolaborasi dengan pemilik repository di public repository
