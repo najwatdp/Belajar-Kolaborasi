@@ -10,3 +10,4 @@ Kelas ini mengajarkan kepada siswa dalam melakukan kolaborasi dengan pemilik rep
 - Merubah fork repository
 - Tambahkan komentar
 - Merge
+- Lihat hasil
