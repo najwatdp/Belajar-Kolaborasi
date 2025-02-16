@@ -4,4 +4,3 @@ Kelas ini mengajarkan kepada siswa dalam melakukan kolaborasi dengan pemilik rep
 **Langkah-langkah dalam melakukan kolaborasi di public repository**
 - Membuka public repository
 - Fork public repository
-- Membuka fork repository
