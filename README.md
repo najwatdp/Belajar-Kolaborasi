@@ -6,3 +6,5 @@ Kelas ini mengajarkan kepada siswa dalam melakukan kolaborasi dengan pemilik rep
 - langkah 2
 - langkah 3
 - langkah 4
+- langkah 7
+- langkah 8
